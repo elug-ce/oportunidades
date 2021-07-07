@@ -1,4 +1,4 @@
-# 🤑 Oportunidades Elug CE
+# Oportunidades Elug CE ✌️
 
 Oportunidades de estágio, emprego e freelacing no ecossistema Elixir.
 
