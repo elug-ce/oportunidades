@@ -29,7 +29,7 @@ Sucesso no recrutamento!
 
 Escreva um excerto sobre a oportunidade de trabalho, citando o perfil da pessoa candidata que a empresa deseja, qual a empresa contratante e o que ela faz/em que mercado atua - e se possível, em que produto/projeto a pessoa irá atuar.
 
-💡 Encontre um balanço entre a simplicidade e descreva os pontos mais importantes - de forma bem resumida! O principal objetivo desse primeiro parágrafo é apresentar brevemente a oportunidade e a empresa (de forma bem resumida mesmo) e despertar o interesse das pessoas candidatas na oportuniade.
+💡 Encontre um balanço entre a simplicidade e descreva os pontos mais importantes - de forma bem resumida! O principal objetivo desse primeiro parágrafo é apresentar brevemente a oportunidade e a empresa (de forma bem resumida mesmo) e despertar o interesse das pessoas candidatas à oportunidade.
 -->
 
 **TODO: substituir texto-exemplo por descrição da vaga.** Estamos buscando uma pessoa desenvolvedora Elixir para juntar-se ao nosso time de engenharia. Nosso mais novo produto é uma inteligência artificial que toca forró em sanfona, zabumba e triângulo usando braços mecânicos. Feito em Elixir, esse software-músico é capaz de reconhecer e reproduzir com perfeição os melhores hinos forrozeiros da cultura cearense.
@@ -37,7 +37,7 @@ Escreva um excerto sobre a oportunidade de trabalho, citando o perfil da pessoa 
 ## 📝 Qualificação
 
 <!--
-📝 SEÇÃO SOBRE O PERFIL DA PESSOA CANDIDATA QUE ESTÁ BUSCANDO
+📝 SEÇÃO SOBRE O PERFIL DA PESSOA CANDIDATA
 
 Descreva aqui a qualificação necessária para a oportunidade.
 
@@ -78,7 +78,7 @@ Listamos abaixo alguns requisitos como um ponto de partida. Alguns são redundan
 - Conhecimentos em teoria musical
 
 <!--
-💡 Encoraje pessoas desenvolvedoras não-experientes em Elixir a se candidatar! Elixir está se popularizando - e considerando sua excelente reputação técnica, será comum ter pessoas desenvolvedoras de outras tecnologias consultando oportunidades para trabalhar com a linguagem
+💡 Encoraje pessoas desenvolvedoras não-experientes em Elixir a se candidatar! Elixir está se popularizando - e considerando sua excelente reputação técnica, será comum ter pessoas desenvolvedoras de outras tecnologias consultando oportunidades para trabalhar com a linguagem.
 -->
 
 Se você ficou interessado mas não tem experiência com Elixir, candidate-se mesmo assim! Nós lhe ofereceremos um teste técnico para que demonstre suas habilidades em uma linguagem de sua preferência.
@@ -86,7 +86,7 @@ Se você ficou interessado mas não tem experiência com Elixir, candidate-se me
 ## 👋 Como se candidatar
 
 <!--
-💡 Se a pessoa interessada chegou nesse ponto, significa que seu anúncio funcionou. Parabéns! Agora, basta fornecer um meio de contato/candidatura para as pessoas candidatas ao processo seletivo.
+💡 Se a pessoa interessada chegou nesse ponto, significa que seu anúncio funcionou. Parabéns! Agora basta fornecer um meio de contato para que a pessoa possa candidatar-se.
 -->
 
 Envie seu currículo para `oportunidades@caju.computer` com o título "Pessoa Desenvolvedora". Use a oportunidade para nos contar um pouco da sua carreira e experiência em engenharia de software, em Elixir (caso tenha), e por quê você se interessou em trabalhar com a gente. :-)
