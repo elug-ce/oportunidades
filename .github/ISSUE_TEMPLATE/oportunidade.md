@@ -6,7 +6,7 @@ title: Pessoa Desenvolvedora @ Caju Computing
 ---
 
 <!--
-Bem-vindo ao Oportunidades Elug CE!
+Boas-vindas ao Oportunidades Elug CE!
 
 Este template é um ponto de partida rápida para criação de uma nova oportunidade. Ele descreve uma oportunidade em uma empresa fictícia chamada Caju Computing. Inspire-se nos textos pré-definidos, e então substitua-os com as informações da sua oportunidade e empresa.
 
@@ -19,7 +19,7 @@ Instruções:
   - Setor (cor laranja). Ex: back end, front end, etc.
   - Senioridade (cor azul). Ex: junior, senior, ec.
   - Tech (cor vermelha). Ex: Erlang, Phoenix, etc.
-- Seja respeitoso e inclusivo ao redigir os textos de sua oportunidade profissional :-)
+- Tenha respeito e tenha empatia ao redigir os textos de sua oportunidade profissional :-)
 
 Sucesso no recrutamento!
 -->
@@ -27,17 +27,17 @@ Sucesso no recrutamento!
 <!--
 📝 SEÇÃO SOBRE A OPORTUNIDADE
 
-Escreva um excerto sobre a oportunidade de trabalho, citando o profissional desejado, qual a empresa contratante e o que ela faz/em que mercado atua - e se possível, em que produto/projeto o profissional irá atuar.
+Escreva um excerto sobre a oportunidade de trabalho, citando o perfil da pessoa candidata que a empresa deseja, qual a empresa contratante e o que ela faz/em que mercado atua - e se possível, em que produto/projeto a pessoa irá atuar.
 
-💡 Encontre um balanço entre ser sucinto e descrever os pontos mais importantes - de forma bem resumida! O principal objetivo desse primeiro parágrafo é apresentar brevemente a oportunidade e a empresa (de forma bem resumida mesmo) e despertar o interesse de candidatos na oportuniade.
+💡 Encontre um balanço entre a simplicidade e descreva os pontos mais importantes - de forma bem resumida! O principal objetivo desse primeiro parágrafo é apresentar brevemente a oportunidade e a empresa (de forma bem resumida mesmo) e despertar o interesse das pessoas candidatas na oportuniade.
 -->
 
-**TODO: substituir texto-exemplo por descrição da vaga.** Estamos buscando um desenvolvedor Elixir para juntar-se ao nosso time de engenharia. Nosso mais novo produto é uma inteligência artificial que toca forró em sanfona, zabumba e triângulo usando braços mecânicos. Feito em Elixir, esse software-músico é capaz de reconhecer e reproduzir com perfeição os melhores hinos forrozeiros da cultura cearense.
+**TODO: substituir texto-exemplo por descrição da vaga.** Estamos buscando uma pessoa desenvolvedora Elixir para juntar-se ao nosso time de engenharia. Nosso mais novo produto é uma inteligência artificial que toca forró em sanfona, zabumba e triângulo usando braços mecânicos. Feito em Elixir, esse software-músico é capaz de reconhecer e reproduzir com perfeição os melhores hinos forrozeiros da cultura cearense.
 
 ## 📝 Qualificação
 
 <!--
-📝 SEÇÃO SOBRE O PROFISSIONAL
+📝 SEÇÃO SOBRE O PERFIL DA PESSOA CANDIDATA QUE ESTÁ BUSCANDO
 
 Descreva aqui a qualificação necessária para a oportunidade.
 
@@ -45,7 +45,7 @@ Descrever bem os requisitos de uma oportunidade pode ser o fator de sucesso ou f
 
 Lembre-se de fazer distinção entre qualificações necessárias e desejáveis.
 
-💡 Embora não seja obrigatório, é aconselhável ter também um resumo sobre as características técnicas do produto/projeto/software no qual o candidato trabalhará.
+💡 Embora não seja obrigatório, é aconselhável ter também um resumo sobre as características técnicas do produto/projeto/software no qual a pessoa candidata trabalhará.
 -->
 
 **TODO: substituir texto-exemplo por descrição do projeto.** Nosso software-músico é escrito em Elixir e Axon. Usamos SQLite para persistência de dados, GRPC para comunicação em rede, e GitHub Actions para CI/CD.
@@ -78,7 +78,7 @@ Listamos abaixo alguns requisitos como um ponto de partida. Alguns são redundan
 - Conhecimentos em teoria musical
 
 <!--
-💡 Encoraje desenvolvedores não-experientes em Elixir a se candidatar! Elixir está se popularizando - e considerando sua excelente reputação técnica, será comum ter profissionais de outras tecnologias consultando oportunidades para trabalhar com a linguagem
+💡 Encoraje pessoas desenvolvedoras não-experientes em Elixir a se candidatar! Elixir está se popularizando - e considerando sua excelente reputação técnica, será comum ter pessoas desenvolvedoras de outras tecnologias consultando oportunidades para trabalhar com a linguagem
 -->
 
 Se você ficou interessado mas não tem experiência com Elixir, candidate-se mesmo assim! Nós lhe ofereceremos um teste técnico para que demonstre suas habilidades em uma linguagem de sua preferência.
@@ -86,7 +86,7 @@ Se você ficou interessado mas não tem experiência com Elixir, candidate-se me
 ## 👋 Como se candidatar
 
 <!--
-💡 Se o leitor chegar a esse ponto, significa que seu anúncio funcionou. Parabéns! Agora, basta fornecer um meio de contato/candidatura para os candidatos processo de seleção.
+💡 Se a pessoa interessada chegou nesse ponto, significa que seu anúncio funcionou. Parabéns! Agora, basta fornecer um meio de contato/candidatura para as pessoas candidatas ao processo seletivo.
 -->
 
 Envie seu currículo para `oportunidades@caju.computer` com o título "Pessoa Desenvolvedora". Use a oportunidade para nos contar um pouco da sua carreira e experiência em engenharia de software, em Elixir (caso tenha), e por quê você se interessou em trabalhar com a gente. :-)
